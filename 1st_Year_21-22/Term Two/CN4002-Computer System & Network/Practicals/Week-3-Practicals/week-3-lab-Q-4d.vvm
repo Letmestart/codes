@@ -1,0 +1,9 @@
+Inp
+Sto 98
+Inp
+Sto 99
+Inp
+Add 98
+Add 99
+Out 
+hlt

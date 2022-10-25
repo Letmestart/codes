@@ -1,0 +1,24 @@
+<!doctype html>
+<!-- This is a demo page created for Web Design Module. Copyright Dr Fadi Safieddine 2021 -->
+<html  lang="en"> <!-- This tag is specify the language on this page is English, only by default this can be 			assumed the case with HTML -->
+	<head> 		
+		<Title>MyFirst Test Page</Title> 
+			<link rel="stylesheet" type="text/css" href="textstyle.CSS" /> <!-- The CSS link -->	
+	</head>
+     	<body> 
+		<h1> Homepage     Parts of the Beach     Activities     About Us     Contact us</h1>
+		<blockquote>
+                <p>Coxes Bazar in Bangladesh:</STRONG></p>
+                Cox’s Bazar Beach is the world’s longest unbroken sandy beach which is situated in Bangladesh. 
+                The beach is 120 km long and it slopes gently down to the blue waters of the Bay of Bengal next 
+                to the scenic backdrop of a sequence of hills covered with deep green forests. This kind of straight
+                and smooth beach is scarcely seen in any place on the globe. The specialty of Cox’s Bazar beach includes 
+                miles of golden sands, soaring cliffs, surfing waves, unusual conch shells, and enjoy seafood. 
+		</blockquote>
+		
+		</P>
+		<p>
+		<img SRC="cox-15.jfif", border="1", Height="150", Width="700", Alt="Tutor's image">
+		</p>
+	</body>
+</html>

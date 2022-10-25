@@ -1,0 +1,22 @@
+
+body {background: #ffffff url("background3.JPG") no-repeat top right;}
+
+h1 {background-color:Green; text-align:Center;} 	/* Headings declared as H1 will be centered and Green */
+
+p {font-family:'Arial'; font-size:14px;color:blue;}	/* Paragraphs set as Arial, 14px, and Blue */
+	
+a:link {color:red;}    					/* Hyperlinks to be given Red color when not visited */
+	
+a:visited {color:green;} 				/* Hyperlinks to turn green once they are visited */
+
+img.large {display: block; width: 500px; height: 500px;}   /* Sets size of an image as 500 by 500 pixels*/
+
+img.medium {width: 250px; height: 250px;} /* Sets size of an image as 500 by 500 pixels*/
+
+img.small {width: 100px;height: 100px;} /* Sets size of an image as 500 by 500 pixels */
+
+img.align-left {float: left; margin-right: 10px;} /*Allows the image to float to the right side of the page */
+
+img.align-right {float: right; margin-left: 10px;} /*Allows the image to float to the left side of the page */
+
+img.align-center { margin: 0px auto;} /*Allows the image to be centre of the page. */

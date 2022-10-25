@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body { background-color:blue; color:orange;}
+input[type="text"]
+{
+width:150px;
+margin-bottom:10px;
+background-color:white;
+}
+input[type="button"]
+{
+width:120px;
+margin-left:35px;
+background-color:white;
+color: red;
+}
+</style>
+<SCRIPT LANGUAGE = "JavaScript" FOR ="AgeEvent" EVENT = "onclick" > </SCRIPT>
+</head>
+<body>
+
+        <h1>My First Form Practice </h1>
+<Form>
+<P ID = "AgeEvent " > Tell me your birth year? </P>
+<INPUT NAME = "year" TYPE = "text" SIZE ="25">
+<INPUT TYPE = "button" VALUE ="Get my age here" ONCLICK =
+"var Birthday;  Birthday = 2022 - year.value; alert('You will be '+ Birthday + ' years old by the end of this year') " > 
+
+        </br>
+        Comments: <TEXTAREA NAME= "comments" ROW = "4" COLS = "35"> </TEXTAREA>
+        </br> Gender: </br>
+        <INPUT NAME= "gender" TYPE = "radio" VALUE = "Male"> Male
+        <INPUT NAME= "gender" TYPE = "radio" VALUE = "Male"> Female
+        </br>
+        Interest:
+        </br> <INPUT NAME= "reply" TYPE = "checkbox" VALUE ="Require reply"> Web design
+        <INPUT NAME= "reply" TYPE = "checkbox" VALUE ="Require reply"> Java Programming
+<INPUT NAME= "reply" TYPE = "checkbox" VALUE ="Require reply"> Computer Hardware
+<INPUT NAME= "reply" TYPE = "checkbox" VALUE ="Require reply"> Surfing the Internet
+<p>
+Please rate my website: 
+<SELECT NAME = "rating">
+<OPTION SELECTED> Amazing :-)
+<OPTION> 9 - 7
+<OPTION> 7 – 5
+<OPTION> 5 – 3
+<OPTION> 3 – 0 </SELECT>
+</p>
+</Form>
+</body>
+</html> 

@@ -1,0 +1,20 @@
+
+body{background-image:url('background.Png');} 		/* This adds the background to the pages */
+
+h1 {background-color:gold; text-align:Center;} 	/* Headings declared as H1 will be centered and Green */
+
+p {font-family:'Arial'; font-size:14px;color:blue;}	/* Paragraphs set as Arial, 14px, and Blue */
+	
+a:link {color:red;}    					/* Hyperlinks to be given Red color when not visited */
+	
+a:visited {color:green;} 				/* Hyperlinks to turn green once they are visited */
+
+
+.Centre {text-align:center;}				/* CSS Class called Centre. To be used for Paragraphs, Blockquotes, Divs, and others */
+
+.MyNewSectionStyle {font-family: Verdana;
+		    font-weight: Bold;font-size: 14pt;    
+		    color: Green; }                      /* MyNewSectionStyle to be used when for the title of a new section  */
+
+.MyParagraphStyle {font-family: Arial;
+		   font-size: 12pt;color: Black; }      /* MyParagaphStyle to be used on those paragraphs that I want to assign a new style to. */

@@ -1,0 +1,12 @@
+Inp
+Sto 60
+Inp
+add 60
+sto 60
+inp
+sto 61
+lda 60
+sub 61
+Add 70
+Out
+hlt

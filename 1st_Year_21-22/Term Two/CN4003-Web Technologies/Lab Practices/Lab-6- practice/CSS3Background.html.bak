@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one 
+{
+	border-style:solid dotted groove double;
+	border-color: yellow blue green red;
+	border-width:5px;
+}
+p.two 
+{
+	border-style:solid;
+	border-color: #FF33FF #6699CC #CC9933 #0099CC;
+	border-width:10px;
+}
+
+</style>
+</head>
+
+<body>
+<p class="one"> <br> This paragraph has example one style. <br> <br> </p>
+<p class="two"> <br> This paragraph has example two style <br> <br> </p>
+
+</body>
+
+</html>

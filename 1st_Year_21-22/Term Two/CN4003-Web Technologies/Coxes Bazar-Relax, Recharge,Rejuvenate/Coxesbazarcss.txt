@@ -1,0 +1,487 @@
+<!DOCTYPE html><!--[if IE 8]><html class="ie ie8"> <![endif]-->
+<!--[if IE 9]><html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!--><html><!--<![endif]-->
+<head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7615655-41"></script>
+<script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-7615655-41');</script>    <meta charset="utf-8"><!--    <meta http-equiv="X-UA-Compatible" content="IE=edge">-->    
+<meta http-equiv="Expires" content="30">    
+<meta name="viewport" content="width=device-width, initial-scale=1">    
+<title>Website Of Sunderbans National Park West Bengal</title>
+<meta name="description" content="Sunderbans National Park tour & travel packages at sunderbans-national-park.com. Choose from our specially designed sunderbans national park tour information, sunderban national park tour india and places to see in Sunderbans." />
+<meta name="keywords" content="Sunderbans national park, Sunderban national park in india, Sunderbans national park india, sunderban national park bengal, find sunderbans national park packages." />    
+<!-- Favicons-->   
+<link rel="shortcut icon" href="img/favicon.ico" type="imag/x-icon">  
+<!-- Skins Theme -->
+        <link href="#" rel="stylesheet" media="screen" class="skin">
+
+<!-- Google web fonts -->    
+<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>  
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Gochi+Hand' rel='stylesheet' type='text/css'>      
+<!-- BASE CSS -->    <link href="css/base.css" rel="stylesheet">   
+<!-- REVOLUTION SLIDER CSS -->    <link href="rs-plugin/css/settings.css" rel="stylesheet">  
+<link href="css/extralayers.css" rel="stylesheet">    <link href="css/custom.css" rel="stylesheet" type="text/css"/>   
+<link rel="shortcut icon" href="https://www.sunderbans-national-park.com/img/sunder_icon.png" />
+
+     <link rel="canonical" href="https://www.sunderbans-national-park.com/index.php" /> 
+
+
+<!--[if lt IE 9]>      <script src="js/html5shiv.min.js"></script>      <script src="js/respond.min.js"></script>   
+<![endif]-->
+</head>
+<body>	
+<!--    <div id="preloader">       
+<div class="sk-spinner sk-spinner-wave">         
+<div class="sk-rect1"></div>            
+<div class="sk-rect2"></div>           
+<div class="sk-rect3"></div>          
+<div class="sk-rect4"></div>          
+<div class="sk-rect5"></div>        
+</div>   
+    </div>   -->
+<!-- End Preload -->	<div class="layer"></div>    <!-- Mobile menu overlay mask -->    <!-- Header================================================== -->    <header>        <div id="top_line">            <div class="container">                  <div id="social_footer"><ul>                            <li><a href="#"><i class="icon-facebook"></i></a></li>                            <li><a href="#"><i class="icon-twitter"></i></a></li>                            <li><a href="#"><i class="icon-google"></i></a></li>                                        </ul></div>                                </div><!-- End container-->        </div><!-- End top line-->                <div id="top_header">        	<div class="container">            	<div class="row">                <div class="col-md-4 col-sm-4 col-xs-4">                    <div id="logo">                        <a href="index.php">                            <img src="img/logoshun.png"  alt="sunderbans national park logo" data-retina="true" class="img-responsive">                        </a>                    </div>                </div>                <nav class="col-md-8 col-sm-8 col-xs-8">                    <a class="cmn-toggle-switch cmn-toggle-switch__rot  open_close" href="javascript:void(0);"><span>Menu mobile</span></a>                    <div class="main-menu">                        <div id="header_menu">                            <img src="img/logoshun.png"  alt="sunderbans national park logo" data-retina="true">                        </div>                        <a href="#" class="open_close" id="close_in"><i class="icon_set_1_icon-77"></i></a>                        <ul>                            <li><a href="index.php">Home</a></li>                           <li><a href="hotels-in-Sunderbans.php">Hotels in Sunderbans</a></li>                                                    <li><a href="sunderbans-tour-packages.php">Sunderbans Tour Packages</a></li>                            <li><a href="contacts.php">Contact us</a></li>                                                 </ul>                    </div><!-- End main-menu -->                                 </nav>            </div>            </div>        </div>    </header><!-- End Header -->        <!-- Slider -->    <div class="tp-banner-container">        <div class="tp-banner">            <ul>                <!-- SLIDE  -->                <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">                    <!-- MAIN IMAGE -->                    <img src="img/dummy.png" alt="dummy image1" data-lazyload="img/slide_7.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">                    <div class="tp-caption white_heavy_40 customin customout text-center text-uppercase" data-x="center" data-y="center" data-hoffset="0" data-voffset="-20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="1700" data-easing="Back.easeInOut" data-endspeed="300" style="z-index: 5;max-width: auto; max-height: auto; white-space: nowrap;">Sunderbans National Park                    </div>                                   <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0" data-x="center" data-y="center" data-hoffset="0" data-voffset="70" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-linktoslide="next" style="z-index: 12;">                </div>                </li>                          <!-- SLIDE  -->                <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">                    <!-- MAIN IMAGE -->                    <img src="img/dummy.png" alt="dummy1" data-lazyload="img/slide_6.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">                    <!-- LAYER NR. 1 -->                    <div class="tp-caption white_heavy_40 customin customout text-center text-uppercase" data-x="center" data-y="center" data-hoffset="0" data-voffset="-20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="1700" data-easing="Back.easeInOut" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Sunderbans National Park                    </div>                                        <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0" data-x="center" data-y="center" data-hoffset="0" data-voffset="70" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-linktoslide="next" style="z-index: 12;">                   </div>                </li>                                <!-- SLIDE  -->                <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">                    <!-- MAIN IMAGE -->                    <img src="img/dummy.png" alt="dummy image" data-lazyload="img/slide_4.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">                    <!-- LAYER NR. 1 -->                    <div class="tp-caption white_heavy_40 customin customout text-center text-uppercase" data-x="center" data-y="center" data-hoffset="0" data-voffset="-20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="1700" data-easing="Back.easeInOut" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Sunderbans National Park                    </div>                    <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0" data-x="center" data-y="center" data-hoffset="0" data-voffset="70" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-linktoslide="next" style="z-index: 12;">                   </div>                </li>            </ul>                   </div>        <div id="general_decor"></div>    </div>
+
+    <div class="container margin_60 padd_bottom_20">
+        <div class="main_title">
+            <span></span>
+            <h1>Sunderbans National Park</h1>
+            <p>
+                 The Most Famous Tiger Zone in the World's Largest Mangrove Forest in India. 
+            </p>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-4">
+                
+                <div class="box_style_1" id="general_facilities">
+    <h3>TOUR PACKAGES</h3>
+     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Controls -->
+<!--  <div class="btn-group pull-right" role="group" aria-label="...">
+    <a class="btn btn-default" href="#carousel-example-generic" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+    <a class="btn btn-default" href="#carousel-example-generic" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+  </div>-->
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    
+    <div class="item">
+      
+     <div class="img_zoom">
+                   <a href="sundarban-weekend-tour.php"><img src="img/tour_img.jpg" alt="sunderban weekend tour" class="img-responsive"></a>
+                </div>
+                     <h3>SUNDERBANS WEEKEND TOUR<span class="price_home"> <em>02 Night(s) / 03 Day(s)</em></span></h3>
+                <p>
+                    Sunderbans weekend tour 02 Nights and 03 Days. Believe this would be your excellent trip exploring a number of beautiful sites to North of Kolkata...
+                </p>
+                <p>
+                    <a href="sundarban-weekend-tour.php" class="btn_1">Read more</a>
+                </p>
+      
+    </div>
+    <div class="item">
+      
+    <div class="img_zoom">
+                   <a href="sunderbans-tour.php"><img src="img/tour_img1.jpg" alt="sunderban tour packages" class="img-responsive"></a>
+                </div>
+                     <h3>SUNDERBANS TIGER TOUR<span class="price_home"> <em>02 Night(s) / 03 Day(s)</em></span></h3>
+                <p>
+                    Sunderbans is a land of roar, trumpet and songs where your journey will be most exciting and enjoyable with stunning mangroves trees. This ultimate tour is going to give...
+                </p>
+                <p>
+                    <a href="sunderbans-tour.php" class="btn_1">Read more</a>
+                </p>
+      
+    </div>
+    <div class="item active">
+      
+  <div class="img_zoom">
+                   <a href="sundarban-kaziranga-tour.php"><img src="img/tour_img2.jpg" alt="sunderban kaziranga tour packages" class="img-responsive"></a>
+                </div>
+                    <h3>SUNDERBAN KAZIRANGA TOUR<span class="price_home"> <em>06 Night(s) / 07 Day(s)</em></span></h3>
+                <p>
+                    Kaziranga National Park is famous for its 1,000 strong population of one horned Rhinoceros. On the other hand Sunderbans National Park is a land of roar and abode to the Royal..
+                </p>
+                <p>
+                    <a href="sundarban-kaziranga-tour.php" class="btn_1">Read more</a>
+                </p>
+      
+    </div>
+  </div>
+
+</div>
+</div>  
+                
+            </div>
+            <div class="col-md-8" id="strip_activities">
+                <p>The Sunderbans ecosystem is a unique natural wonder of south Asia and the globe. The delta is spread over India and Bangladesh with an area of approximately 10,000 square kilometres and is enjoying the status of being largest halophytic mangrove forest in the world. It is a delta of the two great Indian River The Ganga and The Brahamputra which converges on the Bengal basin. The whole area is kingdom of the famous Royal Bengal Tigers. 
+</p>
+<p>
+    The Sunderbans National Park is a tiger and biosphere reserve located in the Sunderbans delta in the state of West Bengal (India). The Sunderbans is named after the Sundari trees which are found in bulk in this area. The park was established as a national park on 4th May 1984 as earlier it was created as wildlife sanctuary in 1977, designated as the core area of Sunderbans Tiger Reserve. 
+
+</p>
+<p>Welcome to the land of tigers called <span>"The Sunderbans National Park"</span> extends in an area of approximately 1,355 Kms. The most preferable time to visit this park is in the month of September and May. If you visit in winter months you could see the sun-bathing on the river banks of amazing and powerful Royal Bengal Tigers. Apart from Bengal Tiger other chief wild life species present in this park are Macaques, Indian Grey Mongoose, Leopard Cats, Ridley Sea Turtle, Wild Boar, Jungle Cat, Fox, Flying Fox, Fishing Cats, Chital, Pangolin and a lot others. 
+</p>
+<p>
+    Travelling to Sunderbans which is a place of incredible natural beauty and mangrove habitat, surely it will bring you close to the nature. Ample of things are there to make your trip memorable. Gliding crosswise the river in the boats takes you to the nature walk as you see varied cultural adventures and close encounter with the tigers has enough to make your eye-catching memories. The serene ambiance and relaxed halo equips you with new energy, zeal and enthusiasm to your entire body parts. Away from the hustle and bustle of the city your mind and soul rests here in the lap of natural beauty. Encounter with the vibrant bees and chirping of birds will take you the unique natural wonder of the earth. 
+</p>
+
+                
+            </div>
+        </div>
+        <div class="row">
+            
+            <div class="col-md-8" id="strip_activities">
+<ul>
+    <div class="strip_all_sunder_tour wow zoomInDown" data-wow-delay="0.1s">
+                    <li>
+                        <img src="img/imag2.jpg" alt="best time to visit sunderbans" class="img-circle styled">
+                    <h4>Best Time To Visit</h4>
+                    <p>
+                      The estuarine of the Sundarbans makes it a unique and a must visit wildlife destination in India for the wildlife lovers as well as Nature lovers. Visiting the Sundarbans National Park is as easy as visiting any other tourism destination in India.
+<a href="http://www.sunderbans-national-park.com/best-time-to-visit-sunderbans.php" class="link_normal">Read more</a>
+                    </p>
+                    </li>
+                    </div>
+     <div class="strip_all_sunder_tour wow zoomInDown" data-wow-delay="0.4s">
+                    <li><img src="img/imag3.jpg" alt="how to reach sunderbans park" class="img-circle styled">
+                    <h4>How to reach Sunderbans National Park:</h4>
+                    <p>
+                   Sunderbans Distance By Road: you are suppose travel from Kolkata to Gosaba(around three hours of journey), take a boat from Godkhali Port to Sajnekhali(two hours).<a href="/how-to-reach-Sunderbans.php" class="link_normal">Read more</a>
+                    </p>
+                    </li>
+     </div>
+     <div class="strip_all_sunder_tour wow zoomInDown" data-wow-delay="0.6s">
+                    <li><img src="img/imag1.jpg" alt="sunderbans distance by trains" class="img-circle styled">
+                    <h4>Sunderbans Distance By Train</h4>
+                    <p>
+                    Board the local trains from Sealdah(South) for Canning as they are available at regular intervals. It takes about one and half hours to reach the starting point of your boat journey to the Sundraban i.e. Godhkhali. <a href="#" class="link_normal">Read more</a>
+                    </p>
+                    </li>
+     </div>
+                 
+                </ul>
+				<h2 style="text-align:center; color:#86b535" >Sunderbans Tour Packages</h2>
+
+                 
+       
+       
+            <div class="col-md-6 col-sm-6">
+                <div class="img_zoom">
+                     <a href="http://www.sunderbans-national-park.com/kolkata-sunderbans-digha-tour.php"><img src="img/room_photo/KOLKATA-TO-DIGHA-SUNDERBANS-Index.jpg" alt="kolkata to digha sunderbans national park" class="img-responsive"></a>
+                </div>
+                <h3>KOLKATA DIGHA SUNDERBAN</h3>
+                <p>
+                    Digha has a low gradient with a shallow sand beach extending up to 07 Km and has gentle rolling waves. On the other hand Sunderbans National Park situated near the Bay of Bengal delta.
+                </p>
+                <p>
+                    <a href="http://www.sunderbans-national-park.com/kolkata-sunderbans-digha-tour.php" class="btn_1">Read more</a>
+                </p>
+            </div>
+            
+            <div class="col-md-6 col-sm-6">
+                <div class="img_zoom">
+                   <a href="http://www.sunderbans-national-park.com/kolkata-sunderban-tour.php"><img src="img/room_photo/KOLKATA-SUNDERBAN-TOUR-Index.jpg" alt="kolkata to sunderbans tour" class="img-responsive"></a>
+                </div>
+                <h3>KOLKATA SUNDERBAN TOUR</h3>
+                <p>
+                    We show more of Sunderbans within the short span of time. You can live your life's most adventurous moments in this small tour for sure enjoy encounter with the Riyal Bengal Tiger.
+                </p>
+                <p>
+                    <a href="http://www.sunderbans-national-park.com/kolkata-sunderban-tour.php" class="btn_1">Read more</a>
+                </p>
+            </div>
+             
+        
+         
+       
+                
+       
+       
+            <div class="col-md-6 col-sm-6">
+                <div class="img_zoom">
+                     <a href="http://www.sunderbans-national-park.com/sundarban-kaziranga-tour.php"><img src="img/room_photo/SUNDARBAN-KAZIRANGA-TOUR-Index.jpg" alt="sunderban kaziranga tour" class="img-responsive"></a>
+                </div>
+                <h3>SUNDERBANS KAZIRANGA TOUR</h3>
+                <p>
+                    You can really submerge yourself in the exceptional wildlife viewing and an opportunity to be close to the nature during this tour. Kaziranga National Park is famous for its 1,000 strong population....
+                </p>
+                <p>
+                    <a href="http://www.sunderbans-national-park.com/sundarban-kaziranga-tour.php" class="btn_1">Read more</a>
+                </p>
+            </div>
+            
+            <div class="col-md-6 col-sm-6">
+                <div class="img_zoom">
+                   <a href="http://www.sunderbans-national-park.com/sunderbans-tour.php"><img src="img/room_photo/SUNDARBAN-TIGER-TOUR-Index.jpg" alt="sunderban tiger tour" class="img-responsive"></a>
+                </div>
+                <h3>SUNDERBANS TIGER TOUR</h3>
+                <p>
+                    We are delighted to announce a lovely trip for guests who have limited time and want to experience a day looking of the Royal Bengal Tiger and many more you expect from your vacation.
+                </p>
+                <p>
+                    <a href="http://www.sunderbans-national-park.com/sunderbans-tour.php" class="btn_1">Read more</a>
+                </p>
+            </div>
+             
+        
+         
+  <b style="text-align:center; color:#86b535" >Sunderbans Weather Update</b>
+       
+       
+            <div class="col-md-12 col-sm-12">
+   <a class="weatherwidget-io" href="https://forecast7.com/en/25d0688d28/sundarban/" data-label_1="West Bengal, India" data-label_2="Sunderban" data-font="Verdana" data-icons="Climacons Animated" data-days="3" data-theme="pure" >West Bengal, India Sunderban</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://weatherwidget.io/js/widget.min.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","weatherwidget-io-js");
+</script>
+            
+            
+        
+             
+        
+         
+        </div>
+              
+</div>
+            <div class="col-md-4">
+                 
+
+ 
+  
+<!--Start  Enquiry Form-->
+<div class="box_style_1" id="book_in">
+                	<h3>Check Enquiry</h3>
+                    <div id="message-booking"></div>
+                 
+                   <form name="query_submit" method="POST" action="" id="check_avail" autocomplete="off">
+                    	<input type="hidden" name="query_submit" value="ok">
+                   
+           				<div class="row">
+                        
+                              <div class="col-md-12 col-sm-6">
+                                   <div class="form-group">
+                                
+                            	 		<input type="text" class="form-control" name="fld_name" value="" id="name_enq" placeholder="Name and Last name" required>
+                                   </div>
+                                   </div>
+                                   <div class="col-md-12 col-sm-6">
+                                   <div class="form-group">
+                                
+                            	 		<input type="text" class="form-control" name="fld_email" value="" id="email_enq" placeholder="Your email" required>
+                                   </div>
+                                   </div>
+                                             <div class="col-md-12 col-sm-6">
+                                   <div class="form-group">
+                                	
+                            	 		<input type="text" class="form-control" name="fld_phone" value="" id="pho_enq" placeholder="Your phone" required>
+                                   </div>
+                                   </div>
+                                                      <div class="col-md-12 col-sm-6">
+                                   <div class="form-group">
+                                	
+                            	 		<input type="text" class="form-control" name="fld_country" value="" id="cou_enq" placeholder="Enter Your Country">
+                                   </div>
+                                   </div>
+                                                     <div class="col-md-12 col-sm-6">
+                                   <div class="form-group">
+                                     <textarea id="textareamy" class="form-control" rows="3" name="fld_query" placeholder="Post your query" required ></textarea>
+                            	 		
+                                   </div>
+                                   </div>
+                                   <div class="col-md-12 col-sm-12">
+                                   <div class="form-group">
+                                   <input type="submit" value="submit" class="btn_full" id="submit-booking">
+                                   </div>
+                                   </div>
+                             </div>
+                        </form>
+
+                </div>
+
+<!--End Enquiry Form-->
+<div class="box_style_1" id="general_facilities">
+    <h3>HOTELS & RESORTS</h3>
+     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+  <div class="carousel-inner">
+    
+    <div class="item active">
+      
+     <div class="img_zoom">
+                   <a href="sunderbans-tiger-camp.php">
+                       <img src="img/Sunderbans-Tiger-Camp-index.jpg" alt="" class="img-responsive">
+                   </a>
+                </div>
+                <h3>Sunderbans Tiger Camp</h3>
+                <p>
+                    Sunderbans Tiger Camp offers the most thrilling and exhilarating holiday experience. Staying here will invariably heighten the unique experience of exploring Sunderbans national Park and tiger reserve.
+                </p>
+                <p>
+                    <a href="sunderbans-tiger-camp.php" class="btn_1">Read more</a>
+                </p>
+      
+    </div>
+    <div class="item">
+      
+    <div class="img_zoom">
+                   <a href="banani-resort-sunderbans.php">
+                       <img src="img/Banani-Resort4-index.jpg" alt="" class="img-responsive">
+                   </a>
+                </div>
+                <h3>Banani Resort</h3>
+                <p>
+                    Immerse yourself in the vibrant beauty of Sunderbans as we bring you this opportunity at Banani Resort. Enjoy most exciting and peaceful retreat on the banks of the river Gomdi.
+                </p>
+                <p>
+                    <a href="banani-resort-sunderbans.php" class="btn_1">Read more</a>
+                </p>
+      
+    </div>
+    <div class="item">
+      
+  <div class="img_zoom">
+                   <a href="sunderban-mangrove-retreat.php">
+                       <img src="img/sunderban-mangrove-retreat-index.png" alt="" class="img-responsive">
+                   </a>
+                </div>
+                <h3>Mangrove Retreat</h3>
+                <p>
+                    Sunderban Mangrove Retreat is famous all over the world as a luxury and an eco-friendly resort for the people who are nature lovers and wildlife freaks. The riverside of Pichkhali..
+                </p>
+                <p>
+                    <a href="sunderban-mangrove-retreat.php" class="btn_1">Read more</a>
+                </p>
+      
+    </div>
+  </div>
+
+</div>
+</div>
+     
+
+<div class=" box_style_2">
+      
+                 
+         <h4 class="hotel" style="text-align:center;">About Sunderbans</h4>
+         <div class="hot_line"></div>
+                        <ul class="list_add">
+                            <li><a href="http://www.sunderbans-national-park.com/how-to-reach-Sunderbans.php">How To Reach</a></li>
+                            <li><a href="http://www.sunderbans-national-park.com/online-safari-booking-sunderbans.php">Sunderbans Safari</a></li>
+							<li><a href="best-time-to-visit-sunderbans.php">Best Time To Visit</a></li>
+                            <li><a href="#">Places To See Sundarban</a></li>
+                                                        </ul>
+                </div>
+
+<div class=" box_style_2">
+                    <i class="icon_set_1_icon-90"></i>
+                    <h4>Need help? Call us</h4>
+                    <a href="tel://9891241399" class="phone hidden">+919891241399</a>
+                    <small>Monday to Sunday 9.00 am - 7.30 pm</small>
+                </div>
+                
+            </div>
+        </div>
+        
+    <div style="width:100%; margin:0 auto; background:#FFFFFF">
+        <img src="img/bganimal.jpg" width="100%"></div>
+ <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-3">
+                    <h3>Contacts</h3>
+                    <ul id="contact_details_footer">
+                        <li>314, Laxmi Deep Building,, District Centre, Laxmi Nagar<br>New Delhi, India - 110092</li>
+                        <li class="hidden"><a href="tel://+91-9971231439">+91-9971231439</a> / <a href="tel://+91-9958811994">+91-9958811994</a></li>
+                        <li><span class="__cf_email__" data-cfemail="#">contact@sunderbans-national-park.com</span></a></li>
+                    </ul>  
+                </div>
+                <div class="col-md-2 col-sm-2">
+				
+<!--                    <h3>About</h3>
+                    <ul>
+                        <li><a href="#">Testing</a></li>
+                        <li><a href="#">Testing</a></li>
+                        <li><a href="#">Testing</a></li>
+                        <li><a href="#">Testing</a></li>
+                         <li><a href="#">Testing</a></li>
+                    </ul>-->
+                </div>                
+                <div class="col-md-3 col-sm-3">
+                    
+
+<!--                    <h3>Change language</h3>
+                   <ul>
+                        <li><a href="#">English</a></li>
+                        <li><a href="#">French</a></li>
+                        <li><a href="#">Spanish</a></li>
+                    </ul>-->
+                </div>
+                <div class="col-md-3 col-sm-3"  id="newsletter">
+                    <h3>Newsletter</h3>
+                    <p>Join our newsletter to keep be informed about offers and news.</p>
+					<div id="message-newsletter_2"></div>
+						<form method="post" action="#" name="newsletter_2" id="newsletter_2">
+                        <div class="form-group">
+                            <input name="email_newsletter_2" id="email_newsletter_2"  type="email" value=""  placeholder="Your mail" class="form-control">
+                          </div>
+                            <input type="submit" value="Subscribe" class="btn_1 white" id="submit-newsletter_2">
+                    	</form>
+                </div>
+            </div><!-- End row -->
+            <div class="row">
+        
+                <div class="col-md-12">
+                    <div id="social_footer">
+                
+                        <p>© 2015 sunderbans-national-park.com</p>
+                    </div>
+                </div>
+            </div><!-- End row -->
+        </div><!-- End container -->
+       
+    </footer>
+   <!-- End footer -->
+   
+
+<div id="toTop"></div><!-- Back to top button -->
+
+<!-- Common scripts -->
+
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/common_scripts_min.js"></script>
+<script src="js/functions.js"></script>
+
+<script type="text/javascript" src="js/pikaday.js"></script>
+	<script type="text/javascript">
+
+	    var picker = new Pikaday(
+        {
+            field: document.getElementById('datepicker'),
+            firstDay: 1,
+            minDate: new Date(2000, 0, 1),
+            maxDate: new Date(2020, 12, 31),
+            yearRange: [2000, 2020]
+        });
+
+    </script>
+<!--<script src="assets/validate.js"></script>      -->
+
+<!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+<script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script src="js/revolution_func.js"></script>
+<script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "defer.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
+
+
+</body>
+</html>

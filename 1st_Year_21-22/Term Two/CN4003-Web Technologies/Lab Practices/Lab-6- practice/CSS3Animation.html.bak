@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+	div 
+	{ /* Initial stage with settings*/
+		width:340px;
+		height:500px;
+		background-image:url('Ourpic.jpg');
+		position:relative;
+		animation:movedown 5s infinite;
+		-webkit-animation:movedown 5s infinite;
+	}
+
+	@keyframes movedown 
+	{ /* The animation to move from top point downwards */
+		from {top:0px;}
+		to {top:200px;}
+	}
+
+	@-webkit-keyframes movedown 
+	{ /* to support safari and chrome */
+		from {top:0px;}
+		to {top:200px;}
+	}
+</style>
+</head>
+<body>
+
+	<p>This feature is not supported by Internet Explorer </p>
+	<div></div> <!--The div that will be animated-->
+
+</body>
+</html>

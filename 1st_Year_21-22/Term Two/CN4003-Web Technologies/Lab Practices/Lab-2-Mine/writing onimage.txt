@@ -1,0 +1,70 @@
+<div class="spotlight-area">
+    <div class="spotlight">
+
+            <div class="spotlight-item width-2 height-2">
+                <a href="#" class="spotlight-info">
+                    <h2 class="large">
+                        Random text
+                    </h2>
+                    <img src="http://www.sobafire.com/__v2/themes/default/images/news/spotlight-big.jpg" alt="haber">
+                </a>
+
+
+            </div>
+
+            <div class="spotlight-item width-1 height-1">
+                <a href="#" class="spotlight-info">
+                    <h2>
+                        Random Text
+                    </h2>
+                </a>
+
+                <img src="http://i.imgur.com/TAxDMus.jpg" alt="haber">
+            </div>
+
+            <div class="spotlight-item width-1 height-1">
+                <a href="#" class="spotlight-info">
+                    <h2>
+                        Random Text
+                    </h2>
+                    <img src="http://i.imgur.com/TAxDMus.jpg" alt="haber">
+                </a>
+
+
+            </div>
+
+            <div class="spotlight-item width-1 height-1">
+                <a href="#" class="spotlight-info">
+                    <h2>
+                        Random Text
+                    </h2>
+                    <img src="http://i.imgur.com/TAxDMus.jpg" alt="haber">
+                </a>
+
+
+            </div>
+
+            <div class="spotlight-item width-1 height-1">
+                <a href="#" class="spotlight-info">
+                    <h2>
+                        Random Text
+                    </h2>
+                    <img src="http://i.imgur.com/TAxDMus.jpg" alt="haber">
+                </a>
+
+
+            </div>
+
+            <div class="spotlight-item width-1 height-1">
+                <a href="#" class="spotlight-info">
+                    <h2>
+                        Random Text
+                    </h2>
+                    <img src="http://i.imgur.com/TAxDMus.jpg" alt="haber">
+                </a>
+
+
+            </div>
+
+    </div>
+</div>

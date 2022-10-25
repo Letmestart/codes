@@ -1,0 +1,26 @@
+<HTML>
+	<HEAD>
+		<TITLE> My first practice JavaScript page </TITLE>
+	</HEAD>
+<BODY>
+
+<Script LANGUAGE="JavaScript">
+	document.write("<H1>Welcome to my first Javascript page </H1>");
+	// This page will print one line and move to the next line.
+</script>
+<script>
+	document.write("<IMG SRC='myphoto.jpg'>");
+</script>
+
+<script>
+	InputName = prompt("Enter your name Name");
+	InputOrder = prompt("Enter  your Order total",0); 
+	PreVatOrder = parseFloat(InputOrder);
+	IncludeVatOrder = PreVatOrder + 0.2*PreVatOrder;
+	document.write(" <p> Dear "+InputName+", thank you for your order. Your order before tax is £"+PreVatOrder+" and after tax £"+IncludeVatOrder+". </br> please visit us soon.</p>");
+</script>
+
+<p></p>
+
+</BODY>
+</HTML>

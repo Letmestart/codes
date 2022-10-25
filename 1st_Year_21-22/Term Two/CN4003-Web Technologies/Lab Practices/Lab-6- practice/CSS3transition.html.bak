@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div
+{ /* The first three lines are the initial setting - start point*/
+	width:50px;
+	height:505px;
+	background-color: pink;
+
+/* The transition and how it will change */
+	transition-property:width;
+	transition-duration:5s;
+	-webkit-transition-property:width;
+	-webkit-transition-duration:5s; }
+
+div:hover
+{ /* The trigger of the animation hovering over the div */
+	background-image:url('Ourpic.jpg');
+	width:340px
+}
+</style>
+</head>
+
+<body>
+<div></div> <!-- The div that is being controlled by CSS3 -->
+<p>  Reveal who is hidden behind this image, hover image over the image</p>
+
+</body>
+
+</html>

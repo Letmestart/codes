@@ -1,0 +1,20 @@
+<html>
+<head>
+<Title> Form Validation Example </Title>
+	<script language="JavaScript">
+	function ValidationCheck(form) {
+ 	 if (form.NameInput.value == "")
+   	 alert("You forgot to put anything for Name!")
+  	 if (form.EmailInput.value == "" || form.EmailInput.value.indexOf('@') == -1) 
+   	alert("You did not put a valid Email!");}
+</script>
+</head>
+<body>
+	<form name="DemoForm">
+	</br>
+		Please enter your name:	<input type="text" name="NameInput"> </br>
+		Please enter your e-mail address:	<input type="text" name="EmailInput"></br>
+	</br>
+	<input type="button" name="button1" value="Test Input" onClick="ValidationCheck(this.form)">
+</body>
+</html>

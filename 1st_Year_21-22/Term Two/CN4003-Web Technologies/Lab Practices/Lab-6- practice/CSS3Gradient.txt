@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+	div 
+	{ /* Initial stage with settings*/
+		width:340px;
+		height:500px;
+		background-image:url('Ourpic.jpg');
+		position:relative;
+		animation:movedown 5s infinite;
+		-webkit-animation:movedown 5s infinite;
+	}
+
+	@keyframes movedown 
+	{ /* The animation to move from top point downwards */
+		from {top:0px;}
+		to {top:200px;}
+	}
+
+	@-webkit-keyframes movedown 
+	{ /* to support safari and chrome */
+		from {top:0px;}
+		to {top:200px;}
+	}
+	/* The CSS3 code for gradient background using all main browser prefix */
+	background-image: linear-gradient(bottom, rgb(232,163,150) 3%, rgb(55,60,115) 55%);
+	background-image: -o-linear-gradient(bottom, rgb(232,163,150) 3%, rgb(55,60,115) 55%);
+	background-image: -moz-linear-gradient(bottom, rgb(232,163,150) 3%, rgb(55,60,115) 55%);
+	background-image: -webkit-linear-gradient(bottom, rgb(232,163,150) 3%, rgb(55,60,115) 55%);
+	background-image: -ms-linear-gradient(bottom, rgb(232,163,150) 3%, rgb(55,60,115) 55%);
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.03, rgb(232,163,150)),
+		color-stop(0.55, rgb(55,60,115)));
+</style>
+</head>
+<body>
+
+	<p>This feature is not supported by Internet Explorer </p>
+	<div></div> <!--The div that will be animated-->
+
+</body>
+</html>
